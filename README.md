@@ -30,3 +30,6 @@ https://github.com/xyTom/cf-page-func-proxy/blob/291f504f9be4a65d2daa39a954a41bd
 
 6.按照页面给出的说明去DNS服务提供商处修改DNS解析记录，即可完成自定义域名绑定
 ![7](https://github.com/xyTom/cf-page-func-proxy/blob/images/images/7.jpg?raw=true)
+
+
+PS: 设置环境变量来指定反向代理域名和端口，使用变量 HOSTNAME 和 PORT
